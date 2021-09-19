@@ -1,0 +1,6 @@
+2021-09-19 12:15:53,676 :INFO : TestDemoOne :getting all the cart titles
+2021-09-19 12:15:54,753 :INFO : TestDemoOne :Nokia Edge is selected
+2021-09-19 12:15:58,945 :INFO : TestDemoOne :click submit
+2021-09-19 12:15:59,949 :INFO : TestDemoOne :entering country
+2021-09-19 12:16:07,409 :INFO : TestDemoOne :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
